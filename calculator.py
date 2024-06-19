@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 import math
 
 # Set the title of the Streamlit app
-# hello
 st.title("Mortgage Repayments Calculator")
 
 # Create input fields for user to input mortgage details
