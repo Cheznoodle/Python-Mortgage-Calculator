@@ -1,6 +1,6 @@
 # Mortgage Repayments Calculator
 
-This is a simple web application built using Streamlit that calculates and displays mortgage repayments based on user inputs. The application allows users to input the home value, deposit, interest rate, and loan term to calculate the monthly repayments, total repayments, and total interest. It also provides a payment schedule displayed as a chart.
+This is a simple web application built using Python and Streamlit that calculates and displays mortgage repayments based on user inputs. The application allows users to input the home value, deposit, interest rate, and loan term to calculate the monthly repayments, total repayments, and total interest. It also provides a payment schedule displayed as a chart.
 
 ## Features
 
