@@ -2,7 +2,7 @@
 
 This is a simple web application built using Python and Streamlit that calculates and displays mortgage repayments based on user inputs. The application allows users to input the home value, deposit, interest rate, and loan term to calculate the monthly repayments, total repayments, and total interest. It also provides a payment schedule displayed as a chart.
 
-Test the Web App using the following link:
+Try it using the web version:
 
 https://cheznoodle-python-mortgage-calculator-calculator-kl3yxo.streamlit.app/
 
